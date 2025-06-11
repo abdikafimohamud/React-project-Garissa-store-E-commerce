@@ -1,0 +1,331 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Classic T-Shirt",
+    "category": "Clothes",
+    "subCategory": "men",
+    "price": 599,
+    "image": "https://media.istockphoto.com/id/1945302953/photo/front-and-back-views-of-a-man-wearing-a-black-oversized-t-shirt-with-blank-space-ideal-for-a.webp?a=1&b=1&s=612x612&w=0&k=20&c=Cc3Bgi1kufxlXA1UgTPHB1uXX5WIagtDpPBekG-csA4=",
+    "description": "Premium cotton T-shirt for men",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["white", "black", "navy"],
+    "material": "100% Cotton"
+  },
+  {
+    "id": 2,
+    "name": "Men's Slim Jeans",
+    "category": "Clothes",
+    "subCategory": "men",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1715758890151-2c15d5d482aa?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fE1lbidzJTIwU2xpbSUyMEplYW5zfGVufDB8fDB8fHww",
+    "description": "Slim fit denim jeans",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["blue", "black"],
+    "material": "Denim"
+  },
+  {
+    "id": 3,
+    "name": "Men's Formal Shirt",
+    "category": "Clothes",
+    "subCategory": "men",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fE1lbidzJTIwRm9ybWFsJTIwU2hpcnR8ZW58MHx8MHx8fDA%3D",
+    "description": "Classic formal dress shirt",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["white", "blue", "gray"],
+    "material": "Cotton"
+  },
+  {
+    "id": 4,
+    "name": "Women's Floral Dress",
+    "category": "Clothes",
+    "subCategory": "women",
+    "price": 1199,
+    "image": "https://media.istockphoto.com/id/2132700571/photo/happy-beauty-woman-with-pink-tulip-bouquet.webp?a=1&b=1&s=612x612&w=0&k=20&c=9gyNRkKKOp9Waf8z1GFJnFC-Paj4FPxntYssJopctZY=",
+    "description": "Elegant summer floral dress",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["red", "blue", "yellow"],
+    "material": "Polyester blend"
+  },
+  {
+    "id": 5,
+    "name": "Women's Blouse",
+    "category": "Clothes",
+    "subCategory": "women",
+    "price": 799,
+    "image": "https://media.istockphoto.com/id/823719790/photo/brown-blouse-isolated.webp?a=1&b=1&s=612x612&w=0&k=20&c=u-9AzL4pC5uoagj1K6yMXEv2C6EOC0FeCQrzGLFxPDY=",
+    "description": "Silky formal blouse",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["white", "cream", "pink"],
+    "material": "Silk blend"
+  },
+  {
+    "id": 6,
+    "name": "Kids' Graphic Tee",
+    "category": "Clothes",
+    "subCategory": "children",
+    "price": 49,
+    "image": "https://images.unsplash.com/photo-1696527014256-4755b3ac0b4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8S2lkcyclMjBHcmFwaGljJTIwVGVlfGVufDB8fDB8fHww",
+    "description": "Fun cartoon print T-shirt for kids",
+    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "colors": ["green", "pink", "blue"],
+    "material": "Soft cotton blend"
+  },
+
+  {
+    "id": 7,
+    "name": "Kids' Hoodie",
+    "category": "Clothes",
+    "subCategory": "children",
+    "price": 99,
+    "image": "https://images.unsplash.com/photo-1675163918357-a27b2b75041b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8S2lkcyclMjBIb29kaWV8ZW58MHx8MHx8fDA%3D",
+    "description": "Warm fleece hoodie",
+    "sizes": ["4-5Y", "6-7Y", "8-9Y"],
+    "colors": ["red", "gray", "navy"],
+    "material": "Fleece"
+  },
+  {
+    "id": 8,
+    "name": "Girls' Tutu Dress",
+    "category": "Clothes",
+    "subCategory": "children",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1662851855627-af2de6fe7413?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEdpcmxzJyUyMFR1dHUlMjBEcmVzc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Adorable tutu dress for special occasions",
+    "sizes": ["2-3Y", "4-5Y", "6-7Y"],
+    "colors": ["pink", "purple", "white"],
+    "material": "Tulle and satin"
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "subCategory": "Audio",
+    "price": 2999,
+    "image": "https://plus.unsplash.com/premium_photo-1677159499898-b061fb5bd2d7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8UG9ydGFibGUlMjBCbHVldG9vdGglMjBTcGVha2VyfGVufDB8fDB8fHww",
+    "description": "Loud and portable speaker with 10W output",
+    "colors": ["black", "blue", "red"],
+    "batteryLife": "10 hours",
+    "brand": "SoundWave"
+  },
+
+  {
+    "id": 10,
+    "name": "Galaxy S23 Ultra",
+    "category": "Electronics",
+    "subCategory": "Smartphone",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEdhbGF4eSUyMFMyMyUyMFVsdHJhfGVufDB8fDB8fHww",
+    "description": "Flagship smartphone with 200MP camera",
+    "colors": ["phantom black", "cream", "green", "lavender"],
+    "storage": ["256GB", "512GB", "1TB"],
+    "brand": "Samsung",
+    "specs": {
+      "display": "6.8\" Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Gen 2",
+      "battery": "5000mAh"
+    }
+  },
+  
+
+  {
+    "id": 11,
+    "name": "MacBook Pro 16\"",
+    "category": "Electronics",
+    "subCategory": "Laptop",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1507470855518-469f3b3dad25?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFjQm9vayUyMFBybyUyMDE2fGVufDB8fDB8fHww",
+    "description": "Professional laptop with M2 Pro chip",
+    "colors": ["space gray", "silver"],
+    "storage": ["512GB", "1TB", "2TB"],
+    "brand": "Apple",
+    "specs": {
+      "display": "16.2\" Liquid Retina XDR",
+      "processor": "M2 Pro 12-core",
+      "memory": "16GB unified",
+      "battery": "Up to 21 hours"
+    }
+  },
+  {
+    "id": 12,
+    "name": "OLED 4K Smart TV",
+    "category": "Electronics",
+    "subCategory": "Television",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1615210230840-69c07c13b4d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8T0xFRCUyMDRLJTIwU21hcnQlMjBUVnxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "65\" OLED TV with perfect blacks and infinite contrast",
+    "colors": ["black"],
+    "brand": "LG",
+    "specs": {
+      "screenSize": "65 inches",
+      "resolution": "3840 x 2160 (4K)",
+      "refreshRate": "120Hz",
+      "smartFeatures": ["webOS", "Google Assistant", "Alexa"]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "subCategory": "Audio",
+    "price": 349,
+    "image": "https://media.istockphoto.com/id/1193032437/photo/one-gray-wireless-headphones-on-white-background-isolated-close-up-grey-bluetooth-headset.webp?a=1&b=1&s=612x612&w=0&k=20&c=-90dnrVlu7AORiaQrtXzVwNL8V_zLRD425ZtMEexDiA=",
+    "description": "Premium wireless headphones with industry-leading noise cancellation",
+    "colors": ["black", "silver", "blue"],
+    "brand": "Sony",
+    "specs": {
+      "batteryLife": "30 hours",
+      "bluetooth": "5.0",
+      "weight": "254g"
+    }
+  },
+  {
+    "id": 14,
+    "name": "iPhone 14 Pro",
+    "category": "Electronics",
+    "subCategory": "Smartphone",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1678685888221-cda773a3dcdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aVBob25lJTIwMTQlMjBQcm98ZW58MHx8MHx8fDA%3D",
+    "description": "Pro camera system with 48MP Main camera",
+    "colors": ["space black", "silver", "gold", "deep purple"],
+    "storage": ["128GB", "256GB", "512GB", "1TB"],
+    "brand": "Apple",
+    "specs": {
+      "display": "6.1\" Super Retina XDR",
+      "processor": "A16 Bionic",
+      "battery": "Up to 23 hours video playback"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Gaming Laptop",
+    "category": "Electronics",
+    "subCategory": "Laptop",
+    "price": 1599,
+    "image": "https://media.istockphoto.com/id/1197071023/photo/portrait-of-software-developer-hacker-gamer-wearing-glasses-and-headset-sitting-at-his-desk.webp?a=1&b=1&s=612x612&w=0&k=20&c=ucLiYWJNJEcDyjCRb_zErcjhTMapHbBefNBwDVlw1oQ=",
+    "description": "High-performance gaming laptop with RTX 3070",
+    "colors": ["black"],
+    "brand": "ASUS",
+    "specs": {
+      "display": "15.6\" QHD 165Hz",
+      "processor": "Intel i7-12700H",
+      "graphics": "NVIDIA RTX 3070",
+      "memory": "16GB DDR5"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subCategory": "Audio",
+    "price": 149,
+    "image": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8V2lyZWxlc3MlMjBFYXJidWRzfGVufDB8fDB8fHww",
+    "description": "True wireless earbuds with spatial audio",
+    "colors": ["white", "black", "blue"],
+    "brand": "Apple",
+    "specs": {
+      "batteryLife": "6 hours (30 with case)",
+      "waterResistance": "IPX4",
+      "connectivity": "Bluetooth 5.0"
+    }
+  },
+  {
+    "id": 17,
+    "name": "4K QLED Smart TV",
+    "category": "Electronics",
+    "subCategory": "Television",
+    "price": 1299,
+    "image": "https://plus.unsplash.com/premium_photo-1723701630582-b2d418fd7e4b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fDRLJTIwUUxFRCUyMFNtYXJ0JTIwVFZ8ZW58MHx8MHx8fDA%3D",
+    "description": "55\" QLED TV with quantum dot technology",
+    "colors": ["black", "silver"],
+    "brand": "Samsung",
+    "specs": {
+      "screenSize": "55 inches",
+      "resolution": "3840 x 2160 (4K)",
+      "refreshRate": "120Hz",
+      "smartFeatures": ["Tizen OS", "Bixby", "Alexa"]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Matte Liquid Lipstick",
+    "category": "Cosmetics",
+    "subCategory": "Makeup",
+    "price": 399,
+    "image": "https://images.unsplash.com/photo-1585387047269-e66bf53002f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fE1hdHRlJTIwTGlxdWlkJTIwTGlwc3RpY2t8ZW58MHx8MHx8fDA%3D",
+    "description": "Long-wearing matte lipstick with velvety finish",
+    "shades": ["Ruby Red", "Nude Rose", "Berry Wine", "Coral Crush"],
+    "size": "6ml",
+    "brand": "LuxeBeauty"
+  },
+  {
+    "id": 19,
+    "name": "Matte Foundation",
+    "category": "Cosmetics",
+    "subCategory": "Makeup",
+    "price": 349,
+    "image": "https://media.istockphoto.com/id/1223089138/photo/checking-finishing-steps-of-a-natural-gorgeous-look.webp?a=1&b=1&s=612x612&w=0&k=20&c=eZctBWxm2qajsTgZWjhONbGhurhskxSy3LLuBq87MgA=",
+    "description": "Smooth matte finish foundation",
+    "shades": ["Ivory", "Beige", "Cocoa"],
+    "size": "30ml"
+  },
+  {
+    "id": 20,
+    "name": "Hydrating Face Serum",
+    "category": "Cosmetics",
+    "subCategory": "Skincare",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1670201203208-055d6d79db4a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SHlkcmF0aW5nJTIwRmFjZSUyMFNlcnVtfGVufDB8fDB8fHww",
+    "description": "Vitamin C serum for brightening and hydration",
+    "size": "30ml",
+    "skinType": ["Dry", "Combination", "Normal"],
+    "brand": "DermaCare"
+  },
+  {
+    "id": 21,
+    "name": "Volumizing Shampoo",
+    "category": "Cosmetics",
+    "subCategory": "Haircare",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1660090455962-ca4da9240d92?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Vm9sdW1pemluZyUyMFNoYW1wb298ZW58MHx8MHx8fDA%3D",
+    "description": "Sulfate-free shampoo for fine, flat hair",
+    "size": "250ml",
+    "hairType": ["Fine", "Flat", "All"],
+    "brand": "HairLux"
+  },
+  {
+    "id": 22,
+    "name": "Eyeshadow Palette",
+    "category": "Cosmetics",
+    "subCategory": "Makeup",
+    "price": 299,
+    "image": "https://media.istockphoto.com/id/483790073/photo/colorful-circle-pattern-creative-abstract-design-background-photo.webp?a=1&b=1&s=612x612&w=0&k=20&c=Srbm7EWQlG4qb6ZCYHOQfHuNhvPqseCsP76RfygTVqQ=",
+    "description": "16 highly pigmented shades with matte and shimmer finishes",
+    "shades": ["Neutral", "Warm", "Cool"],
+    "brand": "ColorPop"
+  },
+  {
+    "id": 23,
+    "name": "Retinol Night Cream",
+    "category": "Cosmetics",
+    "subCategory": "Skincare",
+    "price": 499,
+    "image": "https://images.unsplash.com/photo-1598460880248-71ec6d2d582b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UmV0aW5vbCUyME5pZ2h0JTIwQ3JlYW18ZW58MHx8MHx8fDA%3D",
+    "description": "Anti-aging cream with encapsulated retinol",
+    "size": "50ml",
+    "skinType": ["Dry", "Combination", "Normal", "Mature"],
+    "brand": "SkinScience"
+  },
+  {
+    "id": 24,
+    "name": "Heat Protectant Spray",
+    "category": "Cosmetics",
+    "subCategory": "Haircare",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1747659365190-c4ceea97aff7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fEhlYXQlMjBQcm90ZWN0YW50JTIwU3ByYXl8ZW58MHx8MHx8fDA%3D",
+    "description": "Protects hair up to 450°F while adding shine",
+    "size": "200ml",
+    "hairType": ["All"],
+    "brand": "ThermoGuard"
+  }
+]
